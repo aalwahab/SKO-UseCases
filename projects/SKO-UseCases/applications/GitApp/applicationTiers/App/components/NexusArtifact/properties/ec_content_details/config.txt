@@ -1,0 +1,1 @@
+/projects/SKO-UseCases/pluginConfigurations/NexusConfig
