@@ -1,6 +1,6 @@
 
 release 'myRelease', {
-  description = 'HELLOOOOO'
+  description = 'This Is A Change'
   disableMultipleActiveRuns = '0'
   plannedEndDate = '2022-04-30'
   plannedStartDate = '2022-03-08'
